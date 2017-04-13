@@ -1,0 +1,10 @@
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\bin\Debug\Loopy Planet Challenge project.exe
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\bin\Debug\Loopy Planet Challenge project.exe.config
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy_Planet_Challenge_project.Form1.resources
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy_Planet_Challenge_project.Properties.Resources.resources
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy Planet Challenge project.csproj.GenerateResource.Cache
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy Planet Challenge project.exe
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy Planet Challenge project.pdb
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\bin\Debug\Loopy Planet Challenge project.pdb
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy Planet Challenge project.csprojResolveAssemblyReference.cache
+C:\Users\Jekaterina\Desktop\Jose documents\Projects\Loopy Planet Challenge project\Loopy Planet Challenge project\obj\Debug\Loopy_Planet_Challenge_project.Form2.resources

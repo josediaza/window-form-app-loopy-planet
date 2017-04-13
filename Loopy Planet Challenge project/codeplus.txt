@@ -1,0 +1,9 @@
+ protected override void Sform()
+        {
+            if (MessageBox.Show("Would like to play on Other Worlds?", "Other game", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                Form1 frm = new Form1();
+                frm.Show();
+                this.Hide();
+            }
+        }
